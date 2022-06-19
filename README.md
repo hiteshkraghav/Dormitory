@@ -1,8 +1,8 @@
 # React: Hacker Dormitory
 
-Given a partially completed React application with the HTML template and few built-in functionalities, your task is to implement a resident directory that makes note of a list of residents in the dormitory.
+Given a React application with the HTML template and few built-in functionalities, your task is to implement a resident directory that makes note of a list of residents in the dormitory.
 
-Certain core React functionalities have already been implemented. Complete the React application as shown below in order to pass all the unit tests.
+Complete the React application as shown below in order to pass all the unit tests.
 
 ![](https://hrcdn.net/s3_pub/istreet-assets/DyxnWZZfQtoe9d6OG9hEwA/Screen%20Recording%202020-06-25%20at%209.45.30%20PM.gif)
 
